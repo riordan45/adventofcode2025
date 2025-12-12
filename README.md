@@ -10,3 +10,5 @@ For Day 9, i did figure out the idea of checking if segments intersect, but agai
 DP was on day 3, 7, 11.
 
 Union Find was on day 8.
+
+Also day 12 was such a troll, initially I thought I had to code up the algo used in Resident Evil 4 to arrange the attache case but nooooo
